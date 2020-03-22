@@ -1,4 +1,4 @@
-# Android-Multi-Language-App  (Locale Example in Android, Shared Preference)
+# Android-Multi-Language-App  (Android Localization, Shared Preference)
 Working demo of Multiple languages ( Locale ) in android app.
 The code shows you, How to switch between multiple languages on button click without recreating/refreshing Activity . 
 
